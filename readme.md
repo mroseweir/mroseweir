@@ -1,6 +1,6 @@
 Hello! I am Michael Roseweir, a Full Stack Web Developer based out of Dallas, TX.
 
-I am actively searching for a new opportunity with an amazing company.
+Web Developer @ Scorpion 
 
 <ul>
   <li>Languages - JavaScript, TypeScript.</li>
